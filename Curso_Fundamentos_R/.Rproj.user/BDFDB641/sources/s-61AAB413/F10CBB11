@@ -1,0 +1,27 @@
+{
+    "id": "F10CBB11",
+    "path": "~/Escritorio/CursosR/Curso_Fundamentos_R/Scripts/Session_2.R",
+    "project_path": "Scripts/Session_2.R",
+    "type": "r_source",
+    "hash": "2442678802",
+    "contents": "",
+    "dirty": false,
+    "created": 1616876781365.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "315,52",
+        "scrollLine": "0"
+    },
+    "folds": "0|32|15|0|\n16|17|34|0|\n35|25|52|0|\n53|28|66|0|\n67|21|113|0|\n114|36|232|0|\n233|27|253|0|\n254|27|312|0|\n",
+    "lastKnownWriteTime": 1617935760,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1617935760014,
+    "read_only": false,
+    "read_only_alternatives": []
+}
